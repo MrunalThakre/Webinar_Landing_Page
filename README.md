@@ -11,7 +11,6 @@ Welcome to the "Be Fearless" webinar landing page! This landing page was created
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Video Attachment](#video-attachment)
 - [Contributing](#contribution)
 - [License](#license)
 
